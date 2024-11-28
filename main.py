@@ -1,3 +1,4 @@
+# コメントの追加
 import modules.SayHello as App
 def run():
 	app = App.SayHello("GitHub")
